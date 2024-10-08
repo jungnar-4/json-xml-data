@@ -1,0 +1,30 @@
+{
+    "Catalog": {
+        "Products" : [
+            {
+                "ProductID": "101",
+                "Name": "Smartphone",
+                "Category": "Electronics",
+                "Price": 299.99,
+                "Stock": 25,
+                "ImageURL": "smartphone.png"
+            },
+            {
+                "ProductID": "102",
+                "Name": "Laptop",
+                "Category": "Electronics",
+                "Price": 799.99,
+                "Stock": 15,
+                "ImageURL" : "laptop.jpeg"
+            },
+            {
+                "ProductID": "103",
+                "Name": "Gaming Chair",
+                "Category": "Accessories",
+                "Price": 599.99,
+                "Stock": 15,
+                "ImageURL" : "gamingchair.jpg"
+            }
+        ]
+    }
+}
